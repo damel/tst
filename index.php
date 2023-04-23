@@ -7,5 +7,6 @@
 </head>
 <body>
 	<?php echo "OK"; ?>
+	<?php echo "OK 2"; ?>
 </body>
 </html>
